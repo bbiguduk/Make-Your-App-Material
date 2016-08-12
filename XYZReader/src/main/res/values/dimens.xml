@@ -8,4 +8,14 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
+    <dimen name="action_bar_back_btn_width">56dp</dimen>
+
+    <dimen name="app_bar_height">112dp</dimen>
+    <dimen name="app_bar_elevation">8dp</dimen>
+
+    <dimen name="recycler_view_padding_top">116dp</dimen>
+    <dimen name="recycler_view_padding_bottom">28dp</dimen>
+
+    <dimen name="layout_margin">4dp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
 </resources>

@@ -28,7 +28,7 @@
 
                 <View
                     android:layout_width="match_parent"
-                    android:layout_height="112dp"
+                    android:layout_height="@dimen/app_bar_height"
                     android:background="@drawable/photo_background_protection" />
 
             </FrameLayout>
@@ -99,8 +99,8 @@
         android:layout_gravity="bottom|end"
         android:layout_marginRight="@dimen/fab_margin"
         android:layout_marginBottom="@dimen/fab_margin"
-        android:layout_width="56dp"
-        android:layout_height="56dp"
+        android:layout_width="@dimen/action_bar_back_btn_width"
+        android:layout_height="@dimen/action_bar_back_btn_width"
         android:src="@drawable/ic_share"
         android:elevation="@dimen/fab_elevation"
         android:contentDescription="@string/action_share"
